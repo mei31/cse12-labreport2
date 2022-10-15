@@ -1,4 +1,7 @@
 # **Part 1**
+
+**Code**
+![](vscode.png)
 ```
 Adding strings
 ```
